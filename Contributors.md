@@ -5418,6 +5418,7 @@ Gauresh Rathi
 - [Tehami](https://github.com/tehami326)
 - [Bharani](https://github.com/BharanitharanR)
 - [Shreyas-Jadhav](https://github.com/sreyaz11)
+- [Rajan Gupta](https://github.com/Rajangupta9)
 - [0Juice](https://github.com/0Juice)
 - [Jenny Mason](https://github.com/jjrrrmason)
 - sheldon_kxx
@@ -5437,3 +5438,4 @@ Gauresh Rathi
 - [Marcin Wasilewski](https://github.com/AdeeeenA)
 - [Nadav Ishai](https://github.com/NadavIs56)
 Chris - SWE
+
